@@ -6,6 +6,7 @@ public class TestGit {
 		System.out.println("1. Hello Java");
 		System.out.println("2. Hello Java");
 		System.out.println("3. Hello Java");
+		System.out.println("3. Hello Java");
 	}
 
 }
