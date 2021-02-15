@@ -8,6 +8,7 @@ public class TestGit {
 		System.out.println("3. Hello Java");
 		System.out.println("4. Hello Java");
 		System.out.println("5. Hello Java");
+		System.out.println("6. Hello Java");
 		int a=10,b=10;
 		if(a==b) {
 			System.out.println("true");
